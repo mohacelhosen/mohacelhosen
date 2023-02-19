@@ -8,9 +8,6 @@
 <img alt="CSS3" align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Python" align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0HACEL)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M0HACEL&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=M0HACEL)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohacelhosen)  
 
