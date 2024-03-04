@@ -1,14 +1,7 @@
 ### Welcome🤗,  I'm Md. Mohacel Hosen
 <img src="https://media.licdn.com/dms/image/D4E16AQFOzJOcgseelA/profile-displaybackgroundimage-shrink_350_1400/0/1671789626810?e=1682553600&v=beta&t=my4kMLXveN2I1twVZ3zi1QeHS_X-xrlNlT1GgRlK9h4">
 ## 💫 About Me:
-I'm Md. Mohacel Hosen<br>Fullstack Java Developer<br> IA skilled backend developer specializing in the Spring framework, 
-including Spring Boot, Spring Reactive Web, and Spring Data. My 
-expertise extends to WebFlux, Reactive MongoDB, and WebClient, 
-reflecting a commitment to modern development practices. Alongside 
-backend proficiency, I have a solid foundation in HTML5, CSS3, 
-JavaScript, Bootstrap, Tailwindcss, and ReactJS With experience in 
-databases like MySQL, MongoDB, and Oracle, coupled with DevOps skills 
-(Linux, Docker, CI/CD), I offer a dynamic and collaborative approach. 
+I'm Md. Mohacel Hosen<br>Fullstack Java Developer<br> A skilled backend developer specializing in the Spring framework, including Spring Boot, Spring Reactive Web, and Spring Data. My expertise extends to WebFlux, Reactive MongoDB, and WebClient, reflecting a commitment to modern development practices. Alongside backend proficiency, I have a solid foundation in HTML5, CSS3, JavaScript, Bootstrap, Tailwindcss, and ReactJS With experience in databases like MySQL, MongoDB, and Oracle, coupled with DevOps skills (Linux, Docker, CI/CD), I offer a dynamic and collaborative approach. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mohacel.hosen.568) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohacel-hosen-74755125b) 
